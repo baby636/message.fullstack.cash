@@ -24,7 +24,7 @@
     "@uppy/dashboard": "^1.12.5",
     "@uppy/react": "^1.10.5",
     "@uppy/tus": "^1.7.5",
-    "gatsby": "^2.23.7",
+    "gatsby": "^3.13.0",
     "gatsby-ipfs-web-wallet": "^1.9.20",
     "gatsby-plugin-bch-tx-history": "^1.1.0",
     "qrcode.react": "^1.0.0",
